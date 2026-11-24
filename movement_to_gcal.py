@@ -28,6 +28,7 @@ CAL_PATH = "n/climbing-yoga-fitness-calendar"
 TZ = "America/Los_Angeles"
 CALENDAR_NAME = "Movement Gyms"
 DEFAULT_GYMS = ["sunnyvale", "santa-clara", "mountain-view"]
+DEFAULT_GROUPS = ["yoga-classes", "fitness-classes"]  # the calendar page's Category filter
 
 # Sessions matching this are skipped unless --include-all (not "gym activities" you'd put on a calendar).
 EXCLUDE_RE = re.compile(
@@ -43,11 +44,11 @@ SCOPES = ["https://www.googleapis.com/auth/calendar"]
 
 
 # ---------------------------------------------------------------- scraping
-def fetch_gym(slug, start, end):
+def fetch_gym(slug, start, end, group=None):
     """Return raw calendar rows for one gym between start and end (inclusive dates)."""
     from playwright.sync_api import sync_playwright
 
-    url = f"{PORTAL}/{slug}/{CAL_PATH}"
+    url = f"{PORTAL}/{slug}/{CAL_PATH}" + (f"?group={group}" if group else "")
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
@@ -229,7 +230,8 @@ def main():
     ap.add_argument("--start", type=dt.date.fromisoformat, default=dt.date.today())
     ap.add_argument("--end", type=dt.date.fromisoformat,
                     help="default: last day of the start month")
-    ap.add_argument("--include-all", action="store_true")
+    ap.add_argument("--groups", nargs="+", default=DEFAULT_GROUPS, help="category slugs, e.g. yoga-classes")
+    ap.add_argument("--include-all", action="store_true", help="every category (climbing, kids, events...)")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--ics", metavar="FILE", help="write a subscribable .ics feed instead of using the Google API")
     ap.add_argument("--from-json", help="test mode: read rows from this JSON file instead of scraping")
@@ -240,8 +242,13 @@ def main():
 
     events = []
     for slug in a.gyms:
-        rows = json.load(open(a.from_json)) if a.from_json else fetch_gym(slug, a.start, a.end)
-        kept = [r for r in rows if a.include_all or not EXCLUDE_RE.search(r["publicTitle"])]
+        if a.from_json:
+            rows = json.load(open(a.from_json))
+        elif a.include_all:
+            rows = fetch_gym(slug, a.start, a.end)
+        else:  # some classes (e.g. Sculpt) are in both categories; dedupe by session id
+            rows = list({r["sessionGraphId"]: r for g in a.groups for r in fetch_gym(slug, a.start, a.end, g)}.values())
+        kept = rows
         print(f"{slug}: {len(rows)} sessions, {len(kept)} kept")
         events += [to_event(slug, r) for r in kept]
 
