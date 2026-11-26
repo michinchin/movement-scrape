@@ -246,6 +246,33 @@ def sync(svc, cal_id, events, scanned_gyms, start, end, dry):
 
 
 # ---------------------------------------------------------------- main
+def purge_imported(svc, calendar_id, delete):
+    """Find events that came from importing movement.ics (iCalUID ends in @movement-sync) and delete them."""
+    from googleapiclient.errors import HttpError
+
+    found, page = [], None
+    while True:
+        r = svc.events().list(calendarId=calendar_id, pageToken=page, showDeleted=False,
+                              singleEvents=False, maxResults=2500).execute()
+        found += [e for e in r["items"] if str(e.get("iCalUID", "")).endswith("@movement-sync")]
+        page = r.get("nextPageToken")
+        if not page:
+            break
+    for e in sorted(found, key=lambda e: e["start"].get("dateTime", "")):
+        print(("DELETE " if delete else "would delete ") + e["start"].get("dateTime", "")[:16], e.get("summary"))
+    if not delete:
+        print(f"\n{len(found)} events match in calendar '{calendar_id}'. Re-run with --yes to delete them.")
+        return
+    done = 0
+    for e in found:
+        try:
+            svc.events().delete(calendarId=calendar_id, eventId=e["id"]).execute()
+            done += 1
+        except HttpError as ex:
+            print(f"failed {e['id']}: {ex}")
+    print(f"deleted {done}/{len(found)} events")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--gyms", nargs="+", default=DEFAULT_GYMS, help="portal slugs")
@@ -257,7 +284,14 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--ics", metavar="FILE", help="write a subscribable .ics feed instead of using the Google API")
     ap.add_argument("--from-json", help="test mode: read rows from this JSON file instead of scraping")
+    ap.add_argument("--purge-imported", action="store_true",
+                    help="delete events imported from movement.ics (dry run unless --yes)")
+    ap.add_argument("--calendar", default="primary", help="calendar id for --purge-imported (default: primary)")
+    ap.add_argument("--yes", action="store_true", help="actually delete with --purge-imported")
     a = ap.parse_args()
+    if a.purge_imported:
+        purge_imported(gcal_service(), a.calendar, a.yes)
+        return
     if not a.end:
         nxt = (a.start.replace(day=28) + dt.timedelta(days=4)).replace(day=1)
         a.end = nxt - dt.timedelta(days=1)
