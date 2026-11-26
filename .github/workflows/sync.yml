@@ -17,10 +17,11 @@ jobs:
         run: |
           END=$(date -d "$(date +%Y-%m-01) +2 month -1 day" +%F)
           python movement_to_gcal.py --end "$END" --ics movement.ics
-      - name: Publish to gh-pages
+      - name: Commit movement.ics to main
         run: |
-          mkdir out && cp movement.ics out/
-          cd out && git init -q && git checkout -q -b gh-pages
           git config user.name github-actions && git config user.email actions@github.com
-          git add . && git commit -qm "update feed"
-          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" gh-pages
+          git add movement.ics
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -qm "Update movement.ics"
+          git pull -q --rebase origin main
+          git push origin HEAD:main
