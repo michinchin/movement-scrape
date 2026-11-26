@@ -124,20 +124,42 @@ def _ics_escape(s):
     return s.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
 
 
+def _fold(line):
+    """RFC 5545: lines max 75 octets, continuation lines start with a space."""
+    raw = line.encode("utf-8")
+    if len(raw) <= 75:
+        return [line]
+    out, cur, limit = [], b"", 75
+    for ch in line:
+        c = ch.encode("utf-8")
+        if len(cur) + len(c) > limit:
+            out.append(cur.decode("utf-8"))
+            cur, limit = b"", 74
+        cur += c
+    out.append(cur.decode("utf-8"))
+    return [out[0]] + [" " + x for x in out[1:]]
+
+
 def write_ics(events, path):
-    """Write a subscribable iCalendar feed. Floating local times + X-WR-TIMEZONE keep it simple."""
+    """Write a subscribable iCalendar feed. Times are converted to UTC so no VTIMEZONE block is needed."""
+    from zoneinfo import ZoneInfo
     stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    fmt = lambda s: dt.datetime.fromisoformat(s).strftime("%Y%m%dT%H%M%S")
+
+    def fmt(s):
+        local = dt.datetime.fromisoformat(s).replace(tzinfo=ZoneInfo(TZ))
+        return local.astimezone(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
     out = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//movement-sync//EN", "CALSCALE:GREGORIAN",
-           f"X-WR-CALNAME:{CALENDAR_NAME}", f"X-WR-TIMEZONE:{TZ}", "REFRESH-INTERVAL;VALUE=DURATION:PT12H"]
+           "METHOD:PUBLISH", f"X-WR-CALNAME:{CALENDAR_NAME}", f"X-WR-TIMEZONE:{TZ}",
+           "REFRESH-INTERVAL;VALUE=DURATION:PT12H", "X-PUBLISHED-TTL:PT12H"]
     for e in events:
         out += ["BEGIN:VEVENT", f"UID:{e['id']}@movement-sync", f"DTSTAMP:{stamp}",
-                f"DTSTART;TZID={TZ}:{fmt(e['start']['dateTime'])}",
-                f"DTEND;TZID={TZ}:{fmt(e['end']['dateTime'])}",
+                f"DTSTART:{fmt(e['start']['dateTime'])}",
+                f"DTEND:{fmt(e['end']['dateTime'])}",
                 f"SUMMARY:{_ics_escape(e['summary'])}", f"LOCATION:{_ics_escape(e['location'])}",
                 f"DESCRIPTION:{_ics_escape(e['description'])}", "END:VEVENT"]
     out.append("END:VCALENDAR")
-    Path(path).write_text("\r\n".join(out) + "\r\n")
+    Path(path).write_bytes(("\r\n".join(l for line in out for l in _fold(line)) + "\r\n").encode("utf-8"))
     print(f"wrote {len(events)} events to {path}")
 
 
