@@ -248,7 +248,7 @@ def main():
             rows = fetch_gym(slug, a.start, a.end)
         else:  # some classes (e.g. Sculpt) are in both categories; dedupe by session id
             rows = list({r["sessionGraphId"]: r for g in a.groups for r in fetch_gym(slug, a.start, a.end, g)}.values())
-        kept = rows
+        kept = rows if a.include_all else [r for r in rows if not EXCLUDE_RE.search(r.get("publicTitle") or "")]
         print(f"{slug}: {len(rows)} sessions, {len(kept)} kept")
         events += [to_event(slug, r) for r in kept]
 
