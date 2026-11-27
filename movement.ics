@@ -9,24 +9,24 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:mvt88889c0040885d3794edca640b99b2e50576e0af@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261127T200000Z
 DTEND:20261127T210000Z
 SUMMARY:Power Flow (Sunnyvale)
 LOCATION:Movement Sunnyvale
-DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 34 spaces\nAn u
+DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 33 spaces\nAn u
  pbeat\, strength‑centric flow featuring inventive transitions\, arm bala
  nces\, and core drills for a sweaty\, empowering practice.\nBook: https://
  portal.movementgyms.com/sunnyvale/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt15c5547f9e97e61b30a339d33293ea36d01d96a0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261127T200000Z
 DTEND:20261127T210000Z
 SUMMARY:Mat Pilates (Mountain View)
 LOCATION:Movement Mountain View
-DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nSt
+DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 24 spaces\nSt
  rengthen and align your body through a full-body Mat Pilates practice focu
  sed on core stability\, posture\, and intentional movement. This class ble
  nds controlled strength work with mindful stretching to enhance body aware
@@ -37,7 +37,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nSt
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7ae4c8fa05c67a7de2e9e5765aa59708146602f7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261128T013000Z
 DTEND:20261128T023000Z
 SUMMARY:Total Body Fit (Santa Clara)
@@ -50,43 +50,43 @@ DESCRIPTION:Instructor: Stephanie L.\nAvailability at sync time: 24 spaces\
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt04f0893d65f7d0fbae7b8bb4e4bb5d0195520cc4@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261128T014500Z
 DTEND:20261128T024500Z
 SUMMARY:Flow (Sunnyvale)
 LOCATION:Movement Sunnyvale
-DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 34 spaces\n
+DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 33 spaces\n
  Breath‑linked sequences that ignite internal heat\, build coordination\,
   and leave you energized.\nBook: https://portal.movementgyms.com/sunnyvale
  /n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2b1ad19ffc5c8edd01a05de4c619158d0d332f48@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261128T014500Z
 DTEND:20261128T024500Z
 SUMMARY:Slow Flow + Yin (Mountain View)
 LOCATION:Movement Mountain View
-DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 24 spaces\nBegi
+DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 23 spaces\nBegi
  n with mindful\, breath‑led vinyasa then settle into longer Yin holds th
  at release deep connective tissue.\nBook: https://portal.movementgyms.com/
  mountain-view/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb574a7e7cfce5d4bb41c993f6ab5259f7118357c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261128T030000Z
 DTEND:20261128T040000Z
 SUMMARY:Power Flow (Mountain View)
 LOCATION:Movement Mountain View
-DESCRIPTION:Instructor: Teresa S.\nAvailability at sync time: 25 spaces\nAn
+DESCRIPTION:Instructor: Teresa S.\nAvailability at sync time: 24 spaces\nAn
   upbeat\, strength‑centric flow featuring inventive transitions\, arm ba
  lances\, and core drills for a sweaty\, empowering practice.\nBook: https:
  //portal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtca38ef4b6f190be65fe5da5a01ada43a45ffb54a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261128T033000Z
 DTEND:20261128T044500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -98,7 +98,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 23 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt776e95d0c0d88dab4de18c4b76c409a1c6e54f3b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261128T170000Z
 DTEND:20261128T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -110,19 +110,19 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6a2ffa8966e2534f0d5be90cec541636717fda65@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261128T180000Z
 DTEND:20261128T190000Z
 SUMMARY:Alpine Fit (Santa Clara)
 LOCATION:Movement Santa Clara
-DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 25 space
+DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 24 space
  s\nPrep your body for ski tours\, alpine climbs\, and mountain missions wi
  th leg power\, balance\, and core stability work.\nBook: https://portal.mo
  vementgyms.com/santa-clara/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt61f8b0d191f65b9797d7f6f4b8f6c14b05274273@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261128T180000Z
 DTEND:20261128T190000Z
 SUMMARY:Flow (Mountain View)
@@ -134,19 +134,19 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt34cfe75d42c979bb746943e112a516e0c59a874a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261128T190000Z
 DTEND:20261128T201500Z
 SUMMARY:Foundation Yoga (Santa Clara)
 LOCATION:Movement Santa Clara
-DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 22 spaces\nIntr
+DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 20 spaces\nIntr
  oductory class that demystifies common poses\, alignment basics\, and brea
  th so new yogis start strong.\nBook: https://portal.movementgyms.com/santa
  -clara/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6ff8a148ddeac0ce83b1b2eded9af8cb1a3ef0ec@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261129T000000Z
 DTEND:20261129T011500Z
 SUMMARY:Flow (Sunnyvale)
@@ -158,7 +158,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 35 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt01b8e8a947313a7670767097c55e2c8898d118a6@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261129T000000Z
 DTEND:20261129T010000Z
 SUMMARY:Flow (Mountain View)
@@ -170,7 +170,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtebbbdceec4cb4eb60f57a22cb538ae336a8b22a9@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261129T170000Z
 DTEND:20261129T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -182,7 +182,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 35 spaces\nAn up
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc4eab2e0dba1fb018414bf63d7b99e9cb4c44f95@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261129T180000Z
 DTEND:20261129T190000Z
 SUMMARY:Flow (Mountain View)
@@ -194,19 +194,19 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 25 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtdc7cf9c5a8e22b6d9b087d80df9a9da95fe0e05b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261129T183000Z
 DTEND:20261129T193000Z
 SUMMARY:Alpine Fit (Sunnyvale)
 LOCATION:Movement Sunnyvale
-DESCRIPTION:Instructor: Marvin W.\nAvailability at sync time: 47 spaces\nPr
+DESCRIPTION:Instructor: Marvin W.\nAvailability at sync time: 46 spaces\nPr
  ep your body for ski tours\, alpine climbs\, and mountain missions with le
  g power\, balance\, and core stability work.\nBook: https://portal.movemen
  tgyms.com/sunnyvale/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt245d21a09cf67693269610316e825d735b0b0ef1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261129T190000Z
 DTEND:20261129T201500Z
 SUMMARY:Flow (Sunnyvale)
@@ -218,19 +218,19 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 31 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc2b037d9bb4f4afd90024374a767ed1797b5c572@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261129T190000Z
 DTEND:20261129T201500Z
 SUMMARY:Power Flow (Santa Clara)
 LOCATION:Movement Santa Clara
-DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 24 spaces\nAn up
+DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 23 spaces\nAn up
  beat\, strength‑centric flow featuring inventive transitions\, arm balan
  ces\, and core drills for a sweaty\, empowering practice.\nBook: https://p
  ortal.movementgyms.com/santa-clara/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1e44bfbf451007869528b8b76958205ea93075e5@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261130T000000Z
 DTEND:20261130T010000Z
 SUMMARY:Flow (Santa Clara)
@@ -242,7 +242,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3fdfbf45f3d443012c2b05e4cbb3c91806dc06d0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261130T000000Z
 DTEND:20261130T010000Z
 SUMMARY:Flow (Mountain View)
@@ -254,7 +254,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7da347e2fdb14828458eb7e6f0a88b0a1c5e9473@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261130T200000Z
 DTEND:20261130T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -266,7 +266,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8a49cc1cc71b81796c8476cb9aea3ea28ebfa955@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261130T200000Z
 DTEND:20261130T210000Z
 SUMMARY:Sculpt (Mountain View)
@@ -278,7 +278,7 @@ DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nA b
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb3c043589f93dd84b9befdd7df8f35ce5c2e1f54@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T013000Z
 DTEND:20261201T024500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -290,19 +290,19 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt132e2bfa05f8f193566f9f7685231add045f7d4e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T014500Z
 DTEND:20261201T030000Z
 SUMMARY:Slow Flow (Sunnyvale)
 LOCATION:Movement Sunnyvale
-DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 35 spaces\n
+DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 34 spaces\n
  Move deliberately through nourishing sequences\, savoring each breath and 
  transition for a meditative experience.\nBook: https://portal.movementgyms
  .com/sunnyvale/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt637829f016ab936ab3e85f9f5d8962e41b30a649@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T020000Z
 DTEND:20261201T030000Z
 SUMMARY:Slow Flow + Yin (Mountain View)
@@ -314,7 +314,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte1949f0e80ccd7fdf44a1ca91cc63d1a409ee81b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T021500Z
 DTEND:20261201T030000Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -326,7 +326,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 19 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd1e5986b3598663cabb316d161550f861d4d7c3a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T023000Z
 DTEND:20261201T031500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -338,7 +338,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 29 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1421319995ee92f55be4712c23b1af113eed1478@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T031500Z
 DTEND:20261201T043000Z
 SUMMARY:Foundation Yoga (Sunnyvale)
@@ -350,7 +350,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 35 spaces\nIntr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt835189e0b281a27ecb9a6eeb17f33ec53b49c00f@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T031500Z
 DTEND:20261201T041500Z
 SUMMARY:Flow (Mountain View)
@@ -362,7 +362,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta31996e9d652110599c8662c5e9af9c879f8b3a0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T033000Z
 DTEND:20261201T043000Z
 SUMMARY:Slow Flow Vinyasa (Santa Clara)
@@ -374,7 +374,7 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nMo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4e1b113d11f05f70de06d4e631cd75c2f1c00fa8@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T033000Z
 DTEND:20261201T043000Z
 SUMMARY:Strength (Santa Clara)
@@ -386,7 +386,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 24 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3e875a46b0093077668c72d22e0c1ac1367ad808@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T143000Z
 DTEND:20261201T153000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -398,7 +398,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8aaa6de6197bd46a892cf6b404038ce5920091ed@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T143000Z
 DTEND:20261201T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -410,7 +410,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6b743566d789d6304df6718f8a56d09d10ca7267@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T143000Z
 DTEND:20261201T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -422,19 +422,19 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt22594e37071827f98fc766b19db3333185eb0484@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T200000Z
 DTEND:20261201T210000Z
 SUMMARY:Flow (Sunnyvale)
 LOCATION:Movement Sunnyvale
-DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 35 spaces\nBre
+DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 34 spaces\nBre
  ath‑linked sequences that ignite internal heat\, build coordination\, an
  d leave you energized.\nBook: https://portal.movementgyms.com/sunnyvale/n/
  climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6bb055b333829bbc2bd44742b3aee6dbcf0d8281@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T200000Z
 DTEND:20261201T210000Z
 SUMMARY:Slow Flow + Yin (Santa Clara)
@@ -446,7 +446,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt316b26120fcb5679b549d513ba5ffc7898dbff27@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261201T200000Z
 DTEND:20261201T210000Z
 SUMMARY:Mat Pilates (Mountain View)
@@ -462,7 +462,7 @@ DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nStr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt162803600234486da061e98110187d6d5621fd61@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T014500Z
 DTEND:20261202T030000Z
 SUMMARY:Flow (Santa Clara)
@@ -474,7 +474,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtcc7e6ccdbe66ec6726d54527138dd68b2d22bda7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T014500Z
 DTEND:20261202T024500Z
 SUMMARY:Foundation Yoga (Mountain View)
@@ -486,19 +486,19 @@ DESCRIPTION:Instructor: Sue C.\nAvailability at sync time: 25 spaces\nIntro
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6cfe8a90200b32094c72595f288dd3058e683bb0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T020000Z
 DTEND:20261202T031500Z
 SUMMARY:Power Flow (Sunnyvale)
 LOCATION:Movement Sunnyvale
-DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nAn
+DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 34 spaces\nAn
   upbeat\, strength‑centric flow featuring inventive transitions\, arm ba
  lances\, and core drills for a sweaty\, empowering practice.\nBook: https:
  //portal.movementgyms.com/sunnyvale/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt84bbda116213dfa7d5fb1adf10d0eeef81b8650f@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:Alpine Fit (Sunnyvale)
@@ -510,7 +510,7 @@ DESCRIPTION:Instructor: Patrick R.\nAvailability at sync time: 49 spaces\nP
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt142faedaaeba2c6363b1413e2bef8a900731c51c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T020000Z
 DTEND:20261202T030000Z
 SUMMARY:Functional Strength Training for Climbers (Santa Clara)
@@ -522,7 +522,7 @@ DESCRIPTION:Instructor: Troy I.\nAvailability at sync time: 25 spaces\nBuil
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4cb1ed3de3dc025410adc2700efd0e882b0b13e4@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T030000Z
 DTEND:20261202T040000Z
 SUMMARY:Flow (Mountain View)
@@ -534,7 +534,7 @@ DESCRIPTION:Instructor: Sue C.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt730d536bcc4774a7be4287dcbad6b0eac026d2b7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T031500Z
 DTEND:20261202T041500Z
 SUMMARY:Powerlifting Fundamentals (Sunnyvale)
@@ -548,7 +548,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 17 spaces\nA fo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtcf4858fff6e98c1b27688d65277a9f4a717423e1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T031500Z
 DTEND:20261202T041500Z
 SUMMARY:Flow (Santa Clara)
@@ -560,7 +560,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt85eaeeaeab06d4af611bcef45fdeb1318d690995@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T033000Z
 DTEND:20261202T044500Z
 SUMMARY:Slow Flow + Yin (Sunnyvale)
@@ -572,7 +572,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd670f802890cc8e363da3f787703be7ab02269af@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T033000Z
 DTEND:20261202T043000Z
 SUMMARY:Total Body Fit (Santa Clara)
@@ -585,7 +585,7 @@ DESCRIPTION:Instructor: Tyler H.\nAvailability at sync time: 25 spaces\nA h
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta0f74dda2b9559052e7e73ddd1a87804a9886639@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T143000Z
 DTEND:20261202T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -597,7 +597,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7b8b5111b52240626960fdbb51301b16250594b5@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T200000Z
 DTEND:20261202T210000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -609,7 +609,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtbc3fee53fd94554bb486f29ccf5589fae59652a1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T200000Z
 DTEND:20261202T210000Z
 SUMMARY:Total Body Fit (Sunnyvale)
@@ -621,20 +621,20 @@ DESCRIPTION:Instructor: Michael C.\nAvailability at sync time: 25 spaces\nA
  calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:mvt59e1850aa6d414546f4ec5398c303c31d45c29c4@movement-sync
-DTSTAMP:20261126T214138Z
+UID:mvt0f34ea6bc4c3f35bd1e5a2c3c324a0724c6ea112@movement-sync
+DTSTAMP:20261127T212607Z
 DTSTART:20261202T200000Z
 DTEND:20261202T210000Z
-SUMMARY:Sculpt (Mountain View)
+SUMMARY:Flow (Mountain View)
 LOCATION:Movement Mountain View
-DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nA 
- beat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens\,
-  and tones-expect nonstop movement and a killer playlist.\nBook: https://p
- ortal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
+ eath‑linked sequences that ignite internal heat\, build coordination\, a
+ nd leave you energized.\nBook: https://portal.movementgyms.com/mountain-vi
+ ew/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtbdd879f24c971ee9998eab74c9de4e80ee21d21d@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T013000Z
 DTEND:20261203T021500Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -646,7 +646,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt06ae4ba4d1f88bb2166aff3b1e830168279d23c1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T014500Z
 DTEND:20261203T030000Z
 SUMMARY:Flow (Sunnyvale)
@@ -658,7 +658,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8f44b7c737431b86b6f0fec0d3653c71c17b8de2@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T014500Z
 DTEND:20261203T030000Z
 SUMMARY:Foundation Yoga (Santa Clara)
@@ -669,8 +669,20 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 24 spaces\nIntr
  -clara/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:mvt177f7e961e2518a8b4cbe913cf64959494ae1853@movement-sync
+DTSTAMP:20261127T212607Z
+DTSTART:20261203T014500Z
+DTEND:20261203T024500Z
+SUMMARY:Sculpt (Mountain View)
+LOCATION:Movement Mountain View
+DESCRIPTION:Instructor: Connie L.\nAvailability at sync time: 25 spaces\nA 
+ beat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens\,
+  and tones-expect nonstop movement and a killer playlist.\nBook: https://p
+ ortal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:mvt8076920101667d4998a897b02559fb99bc9d1293@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T020000Z
 DTEND:20261203T030000Z
 SUMMARY:Strength (Santa Clara)
@@ -682,7 +694,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 25 spaces\nA we
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb33120caa7d45f48dbe082d8d6fb8de35480fba1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T023000Z
 DTEND:20261203T033000Z
 SUMMARY:Olympic Weightlifting Fundamentals (Sunnyvale)
@@ -697,7 +709,7 @@ DESCRIPTION:Instructor: Matthew C.\nAvailability at sync time: 20 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtccc886461deef8f236bae720d3167b5c40ef09ae@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T030000Z
 DTEND:20261203T034500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -709,7 +721,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 30 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt934f496caff53e9fd463276cedebae00147900c4@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T031500Z
 DTEND:20261203T041500Z
 SUMMARY:Yin (Sunnyvale)
@@ -721,7 +733,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nLo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtf20bbc792821ccae8d9156ec98abec190f006982@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T031500Z
 DTEND:20261203T041500Z
 SUMMARY:Flow (Mountain View)
@@ -733,7 +745,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt068e740701f181b8cebb25ce32b5bd25fde740ca@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T033000Z
 DTEND:20261203T043000Z
 SUMMARY:Core Yoga (Santa Clara)
@@ -745,7 +757,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 24 spaces\nA fl
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt75f53a74437010ec468e3429868669e9d991e4fa@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T143000Z
 DTEND:20261203T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -757,7 +769,7 @@ DESCRIPTION:Instructor: Kevin N.\nAvailability at sync time: 20 spaces\nA w
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtbd9b1077349a7605d9c9abb023f82ec8068277e5@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T143000Z
 DTEND:20261203T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -769,7 +781,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt00466ea54e883558bae2c1c6420d7ce2db441ba0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T200000Z
 DTEND:20261203T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -781,7 +793,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte05e0a67f79c3ca6d318ffa4a01940a8d10dd4f9@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T200000Z
 DTEND:20261203T210000Z
 SUMMARY:Power Flow (Santa Clara)
@@ -793,7 +805,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8a8adcb6fc772bbb7b748ff7bf34d862dbd1f1ed@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261203T200000Z
 DTEND:20261203T210000Z
 SUMMARY:Sculpt (Mountain View)
@@ -805,7 +817,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt94d5eed178a0763ba5b9eca0dbeb80c804952cbe@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T014500Z
 DTEND:20261204T030000Z
 SUMMARY:Flow (Santa Clara)
@@ -816,32 +828,32 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nBrea
  /climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:mvt2b5de8d2370876cbda713bb06beadd88b4bba49d@movement-sync
-DTSTAMP:20261126T214138Z
+UID:mvtd98b4f53f457d7d54b32c36f2ba98bc9d83be7ce@movement-sync
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T014500Z
 DTEND:20261204T024500Z
-SUMMARY:Foundation Yoga (Mountain View)
+SUMMARY:Slow Flow + Yin (Mountain View)
 LOCATION:Movement Mountain View
 DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 25 spaces\n
- Introductory class that demystifies common poses\, alignment basics\, and 
- breath so new yogis start strong.\nBook: https://portal.movementgyms.com/m
- ountain-view/n/climbing-yoga-fitness-calendar
+ Begin with mindful\, breath‑led vinyasa then settle into longer Yin hold
+ s that release deep connective tissue.\nBook: https://portal.movementgyms.
+ com/mountain-view/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3adfceb3c89d8aef03e8ff8a38616a0d895d5368@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T020000Z
 DTEND:20261204T031500Z
 SUMMARY:Power Flow (Sunnyvale)
 LOCATION:Movement Sunnyvale
-DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 35 spaces\nAn
+DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 34 spaces\nAn
   upbeat\, strength‑centric flow featuring inventive transitions\, arm ba
  lances\, and core drills for a sweaty\, empowering practice.\nBook: https:
  //portal.movementgyms.com/sunnyvale/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2d790ebcd947b8a6c1271562b74c6a89abc2ad3e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T020000Z
 DTEND:20261204T030000Z
 SUMMARY:Ski Fit (Sunnyvale)
@@ -853,7 +865,7 @@ DESCRIPTION:Instructor: Patrick R.\nAvailability at sync time: 34 spaces\nI
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtf51672a3afb9b9eb7e65f342fb5be4a31e446eba@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T030000Z
 DTEND:20261204T040000Z
 SUMMARY:Flow (Mountain View)
@@ -865,7 +877,7 @@ DESCRIPTION:Instructor: Teresa S.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt455b31e30abb1610210cd9cd6ee91df4447fdf8e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T031500Z
 DTEND:20261204T041500Z
 SUMMARY:Strength for Climbers (Sunnyvale)
@@ -882,7 +894,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 18 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtdf1289fc288e4aa2136ae2d135e1acafb879682f@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T031500Z
 DTEND:20261204T043000Z
 SUMMARY:Flow (Santa Clara)
@@ -894,7 +906,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4f3141d5108750e2895c62db058d24d9253e0da1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T033000Z
 DTEND:20261204T044500Z
 SUMMARY:Foundation Yoga (Sunnyvale)
@@ -906,7 +918,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 35 spaces\nIntro
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt591ed36bac8bc4ccd3be1f017ac6500729a3e9bc@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T200000Z
 DTEND:20261204T210000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -918,7 +930,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 35 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3b603abdd53d2bbe4921988f8927f1c30ac8a70e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261204T200000Z
 DTEND:20261204T210000Z
 SUMMARY:Mat Pilates (Mountain View)
@@ -934,7 +946,7 @@ DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nStr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt51f400928d39ade6a9a8fb702ac4e7b6d2ed9a27@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T011500Z
 DTEND:20261205T024500Z
 SUMMARY:Yin w/Sound Healing (Santa Clara)
@@ -947,7 +959,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: Full.\nStretc
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtba97e1e92c94290e3870580dc4dd4dc29d86d707@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T013000Z
 DTEND:20261205T023000Z
 SUMMARY:Total Body Fit (Santa Clara)
@@ -960,7 +972,7 @@ DESCRIPTION:Instructor: Stephanie L.\nAvailability at sync time: 25 spaces\
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta05b7be4fc02938a5dad5937da3a9005d098833b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T014500Z
 DTEND:20261205T024500Z
 SUMMARY:Flow (Sunnyvale)
@@ -972,7 +984,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 35 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt41f7a93f92e67b709d1d1ef131d52e01e4731a70@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T014500Z
 DTEND:20261205T024500Z
 SUMMARY:Sculpt (Mountain View)
@@ -984,7 +996,7 @@ DESCRIPTION:Instructor: Jordan B.\nAvailability at sync time: 25 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt0d4672f6f9d7c688f7745b556f44ef8a471cbcdb@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T030000Z
 DTEND:20261205T040000Z
 SUMMARY:Power Flow (Mountain View)
@@ -996,7 +1008,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtf21de36544d66a6554a9c1a1425498016ed7c5f7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T033000Z
 DTEND:20261205T044500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -1008,7 +1020,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 24 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7fc79f06effaba25493202aa197c430da90a04e8@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T170000Z
 DTEND:20261205T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -1020,7 +1032,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt726d61c0d906f473293fb60abad71171e6dd83c3@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T180000Z
 DTEND:20261205T190000Z
 SUMMARY:Alpine Fit (Santa Clara)
@@ -1032,7 +1044,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 24 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt76bbc4e0f4968d6e02c8e80c33bbe6962c7f6a54@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T180000Z
 DTEND:20261205T190000Z
 SUMMARY:Flow (Mountain View)
@@ -1044,7 +1056,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb0f923ce1d25390de35f0146a78d5a376628644a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261205T190000Z
 DTEND:20261205T201500Z
 SUMMARY:Foundation Yoga (Santa Clara)
@@ -1056,7 +1068,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nIntr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd9a2009120491b2b4e8eb55de72dd7affd1e6137@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261206T000000Z
 DTEND:20261206T011500Z
 SUMMARY:Flow (Sunnyvale)
@@ -1068,7 +1080,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4d4afd2879469a7354d493b4064545681971f9da@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261206T000000Z
 DTEND:20261206T010000Z
 SUMMARY:Flow (Mountain View)
@@ -1080,7 +1092,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtdcd82f0a0088e711b9e443faaff1757801ead633@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261206T170000Z
 DTEND:20261206T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -1092,7 +1104,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 35 spaces\nAn up
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt78a3658967c4fb7051f66691f8354b14bbfcf117@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261206T180000Z
 DTEND:20261206T190000Z
 SUMMARY:Flow (Mountain View)
@@ -1104,7 +1116,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 25 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt71335e6874f44e231b01b36ba72b071f93903353@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261206T183000Z
 DTEND:20261206T193000Z
 SUMMARY:Alpine Fit (Sunnyvale)
@@ -1116,7 +1128,7 @@ DESCRIPTION:Instructor: Marvin W.\nAvailability at sync time: 50 spaces\nPr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt096b57990e5d881b5b1d9627393306afde370be0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261206T190000Z
 DTEND:20261206T201500Z
 SUMMARY:Flow (Sunnyvale)
@@ -1128,7 +1140,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 35 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt65cee9b4d79bad6cab1dacff125e14a1331c1d48@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261206T190000Z
 DTEND:20261206T201500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -1140,7 +1152,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 24 spaces\nAn up
 END:VEVENT
 BEGIN:VEVENT
 UID:mvteac8e5842bb4e046d7b34a8ff64d91859a3397d6@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261207T000000Z
 DTEND:20261207T010000Z
 SUMMARY:Flow (Santa Clara)
@@ -1152,7 +1164,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd40f45f9d0fab2622f94e0190fabc3c7fe912cd3@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261207T000000Z
 DTEND:20261207T010000Z
 SUMMARY:Flow (Mountain View)
@@ -1164,7 +1176,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6b0e0c0cf4043eff444cc09ab1df74fa41f9a86a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261207T200000Z
 DTEND:20261207T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -1176,7 +1188,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt9f01ffb460bc39f0a016aa0b9e75f59336a9de6b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261207T200000Z
 DTEND:20261207T210000Z
 SUMMARY:Sculpt (Mountain View)
@@ -1188,7 +1200,7 @@ DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nA b
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtaaf15b2a07be8c86c22fba736e0efef5067cb2c8@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T013000Z
 DTEND:20261208T024500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -1200,7 +1212,7 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtf47567489208f5ff92c6f87a8c246e8b9ac8d9dc@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T014500Z
 DTEND:20261208T030000Z
 SUMMARY:Slow Flow (Sunnyvale)
@@ -1212,7 +1224,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 35 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt307c90d824896205be7f0e73b39e5f221b38d129@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T020000Z
 DTEND:20261208T030000Z
 SUMMARY:Slow Flow + Yin (Mountain View)
@@ -1224,7 +1236,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte68a5fc1c57fd5bf93aa8deaca01e83a166c0392@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T021500Z
 DTEND:20261208T030000Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -1236,7 +1248,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 20 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtef665616aadf27b109d206ea16134d3d79c09d71@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T023000Z
 DTEND:20261208T031500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -1248,7 +1260,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 30 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtcd873f61ad8041ba697bcfcc82abbab4a54a9b43@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T031500Z
 DTEND:20261208T043000Z
 SUMMARY:Foundation Yoga (Sunnyvale)
@@ -1260,7 +1272,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 35 spaces\nIntr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6c52b635f113e96cc1e92858a2664b308eb73632@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T031500Z
 DTEND:20261208T041500Z
 SUMMARY:Flow (Mountain View)
@@ -1272,7 +1284,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5aa89eb24e53db560a94bdf7ee1fc40a85b836d7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T033000Z
 DTEND:20261208T043000Z
 SUMMARY:Slow Flow Vinyasa (Santa Clara)
@@ -1284,7 +1296,7 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nMo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7d2bd4a8e32b9c5640c3d0838aeb3c7067ed1961@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T033000Z
 DTEND:20261208T043000Z
 SUMMARY:Strength (Santa Clara)
@@ -1296,7 +1308,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 25 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt62c5a2f41d3531454f6d43245aa01d4ec5e07d34@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T143000Z
 DTEND:20261208T153000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -1308,7 +1320,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8b7e57e8d576228db9b8b251f9dd888ecc5594b1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T143000Z
 DTEND:20261208T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -1320,7 +1332,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt35ef4363b8f3b8c85910cb71caeceeadd8b92649@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T143000Z
 DTEND:20261208T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -1332,7 +1344,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt49dde27436b703af85620ffd6377da44fcdf9ab1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T200000Z
 DTEND:20261208T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -1344,7 +1356,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 35 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt00a00fd0d0ef6981235fb1b83b1d41447277252b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T200000Z
 DTEND:20261208T210000Z
 SUMMARY:Slow Flow + Yin (Santa Clara)
@@ -1356,7 +1368,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2292a8b3500b40b6fa14c143915d24dac2088851@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261208T200000Z
 DTEND:20261208T210000Z
 SUMMARY:Mat Pilates (Mountain View)
@@ -1372,7 +1384,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 25 spaces\nStr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc09047424a5b5d595de5c4b634851c1c19db2d72@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T014500Z
 DTEND:20261209T030000Z
 SUMMARY:Flow (Santa Clara)
@@ -1384,7 +1396,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt0bd058704cdd82d38bf1364f9a65b4d5f865e9be@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T014500Z
 DTEND:20261209T024500Z
 SUMMARY:Foundation Yoga (Mountain View)
@@ -1396,19 +1408,19 @@ DESCRIPTION:Instructor: Sue C.\nAvailability at sync time: 25 spaces\nIntro
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5ccfbc7e7a51aa35a7309c30ade1b6587bf8d1b9@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T020000Z
 DTEND:20261209T031500Z
 SUMMARY:Power Flow (Sunnyvale)
 LOCATION:Movement Sunnyvale
-DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nAn
+DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 34 spaces\nAn
   upbeat\, strength‑centric flow featuring inventive transitions\, arm ba
  lances\, and core drills for a sweaty\, empowering practice.\nBook: https:
  //portal.movementgyms.com/sunnyvale/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8b7067ce919116b9443881ae19cfdd74274c6461@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Alpine Fit (Sunnyvale)
@@ -1420,7 +1432,7 @@ DESCRIPTION:Instructor: Patrick R.\nAvailability at sync time: 50 spaces\nP
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt821b8235cd4ecc3dac17787cb203fa2b5e13998f@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T020000Z
 DTEND:20261209T030000Z
 SUMMARY:Functional Strength Training for Climbers (Santa Clara)
@@ -1432,7 +1444,7 @@ DESCRIPTION:Instructor: Troy I.\nAvailability at sync time: 25 spaces\nBuil
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8ca3a341a60f66144329852ef50033d38c62295a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T030000Z
 DTEND:20261209T040000Z
 SUMMARY:Flow (Mountain View)
@@ -1444,7 +1456,7 @@ DESCRIPTION:Instructor: Sue C.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc538eeffbc1867c26c516c85ba76e8e2b0907ffb@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T031500Z
 DTEND:20261209T041500Z
 SUMMARY:Powerlifting Fundamentals (Sunnyvale)
@@ -1458,7 +1470,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 20 spaces\nA fo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt066345eb973740a3f8eaaccf6a556ee6d1a08998@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T031500Z
 DTEND:20261209T041500Z
 SUMMARY:Flow (Santa Clara)
@@ -1470,7 +1482,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb628391ab446e6e4aad2698e7b6caf539999ff6b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T033000Z
 DTEND:20261209T044500Z
 SUMMARY:Slow Flow + Yin (Sunnyvale)
@@ -1482,7 +1494,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtde95ad301a836caf4842b39c4ce7357f42e980d0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T033000Z
 DTEND:20261209T043000Z
 SUMMARY:Total Body Fit (Santa Clara)
@@ -1495,7 +1507,7 @@ DESCRIPTION:Instructor: Tyler H.\nAvailability at sync time: 25 spaces\nA h
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt565e86bc2c2ad0d426c6660b59de420e8f092511@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T143000Z
 DTEND:20261209T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -1507,7 +1519,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3a17421d40445cafcb834200203dc9eeac7951c6@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T200000Z
 DTEND:20261209T210000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -1519,7 +1531,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt60d852b42fa34530491e883b54dbc758cfcfa724@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T200000Z
 DTEND:20261209T210000Z
 SUMMARY:Total Body Fit (Sunnyvale)
@@ -1531,20 +1543,20 @@ DESCRIPTION:Instructor: Michael C.\nAvailability at sync time: 25 spaces\nA
  calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:mvt01a930fffab3d5024960bae1dd37278988125d54@movement-sync
-DTSTAMP:20261126T214138Z
+UID:mvtc5e1b92f157f48b2bd10527b8f4995ec1c0e69f6@movement-sync
+DTSTAMP:20261127T212607Z
 DTSTART:20261209T200000Z
 DTEND:20261209T210000Z
-SUMMARY:Sculpt (Mountain View)
+SUMMARY:Flow (Mountain View)
 LOCATION:Movement Mountain View
-DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nA 
- beat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens\,
-  and tones-expect nonstop movement and a killer playlist.\nBook: https://p
- ortal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
+ eath‑linked sequences that ignite internal heat\, build coordination\, a
+ nd leave you energized.\nBook: https://portal.movementgyms.com/mountain-vi
+ ew/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtea57eccddb56e4275b258af33839957577700eb8@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T013000Z
 DTEND:20261210T021500Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -1556,7 +1568,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7037b4d8aaf7898510257f1d8a5ce7e7172b7f6d@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T014500Z
 DTEND:20261210T030000Z
 SUMMARY:Flow (Sunnyvale)
@@ -1568,7 +1580,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 35 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2d1b6bba2b5c30f81f316ae414e5dee734aa98af@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T014500Z
 DTEND:20261210T030000Z
 SUMMARY:Foundation Yoga (Santa Clara)
@@ -1579,8 +1591,20 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nIntr
  -clara/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:mvtb846c38fdf9f8b6a99d64f4c016a59bb11a7c990@movement-sync
+DTSTAMP:20261127T212607Z
+DTSTART:20261210T014500Z
+DTEND:20261210T024500Z
+SUMMARY:Sculpt (Mountain View)
+LOCATION:Movement Mountain View
+DESCRIPTION:Instructor: Connie L.\nAvailability at sync time: 25 spaces\nA 
+ beat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens\,
+  and tones-expect nonstop movement and a killer playlist.\nBook: https://p
+ ortal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:mvtdc74c2715477850162dd9ea8125e8bedd0182e36@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T020000Z
 DTEND:20261210T030000Z
 SUMMARY:Strength (Santa Clara)
@@ -1592,7 +1616,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 25 spaces\nA we
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd78a72f1485d0f320489ae28d88e7b03b4c83623@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T023000Z
 DTEND:20261210T033000Z
 SUMMARY:Olympic Weightlifting Fundamentals (Sunnyvale)
@@ -1607,7 +1631,7 @@ DESCRIPTION:Instructor: Matthew C.\nAvailability at sync time: 20 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt0afcb8b07796a5e4b55e411a3ae466159ccb0ad3@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T030000Z
 DTEND:20261210T034500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -1619,7 +1643,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 30 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2519c78d5fe6e938a8be0c06c80a3a9a70261540@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T031500Z
 DTEND:20261210T041500Z
 SUMMARY:Yin (Sunnyvale)
@@ -1631,7 +1655,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 35 spaces\nLong\
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt84982f6484307e632bbe362b267a4c5e518cafad@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T031500Z
 DTEND:20261210T041500Z
 SUMMARY:Flow (Mountain View)
@@ -1643,7 +1667,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8bdabd3c4b36be8857975ce02f238680b4389839@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T033000Z
 DTEND:20261210T043000Z
 SUMMARY:Core Yoga (Santa Clara)
@@ -1655,7 +1679,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 25 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb65ee51a4e4a82e420a675c5f922f11446894eef@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T143000Z
 DTEND:20261210T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -1667,7 +1691,7 @@ DESCRIPTION:Instructor: Kevin N.\nAvailability at sync time: 20 spaces\nA w
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb92bd70b582699791cab7472fd2b29e91d5d1694@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T143000Z
 DTEND:20261210T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -1679,7 +1703,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt56adb4de911bcbc0604378029c25df537df4d2e4@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T200000Z
 DTEND:20261210T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -1691,7 +1715,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt00ba3db01a39df71f286c4d40ab4892f3291f651@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T200000Z
 DTEND:20261210T210000Z
 SUMMARY:Power Flow (Santa Clara)
@@ -1703,7 +1727,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt065b4e4fdd6795d9138b9ebc7c7d62691687078b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261210T200000Z
 DTEND:20261210T210000Z
 SUMMARY:Sculpt (Mountain View)
@@ -1715,7 +1739,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc869400099f22b022f18066e92b4b3d66e400eec@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T014500Z
 DTEND:20261211T030000Z
 SUMMARY:Flow (Santa Clara)
@@ -1726,20 +1750,20 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nBrea
  /climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:mvt810ee26939294d14ae92e9c290026c4a5c40b06f@movement-sync
-DTSTAMP:20261126T214138Z
+UID:mvt6b5a7a234ef90f026b477f318bb67751ceba80d2@movement-sync
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T014500Z
 DTEND:20261211T024500Z
-SUMMARY:Foundation Yoga (Mountain View)
+SUMMARY:Slow Flow + Yin (Mountain View)
 LOCATION:Movement Mountain View
 DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 25 spaces\n
- Introductory class that demystifies common poses\, alignment basics\, and 
- breath so new yogis start strong.\nBook: https://portal.movementgyms.com/m
- ountain-view/n/climbing-yoga-fitness-calendar
+ Begin with mindful\, breath‑led vinyasa then settle into longer Yin hold
+ s that release deep connective tissue.\nBook: https://portal.movementgyms.
+ com/mountain-view/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt38ca5a9a92f2b98aacc98d3ec9f204537577d8d5@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T020000Z
 DTEND:20261211T031500Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -1751,7 +1775,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 35 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtda8135e6882f909f1ea6aa19acced2c6b2dd2b34@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T020000Z
 DTEND:20261211T030000Z
 SUMMARY:Ski Fit (Sunnyvale)
@@ -1763,7 +1787,7 @@ DESCRIPTION:Instructor: Patrick R.\nAvailability at sync time: 35 spaces\nI
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt024eb19b437caaa9bf6c9393cdbd3d84f44dd57d@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T030000Z
 DTEND:20261211T040000Z
 SUMMARY:Flow (Mountain View)
@@ -1775,7 +1799,7 @@ DESCRIPTION:Instructor: Teresa S.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb3fd849024fc357a5ef0f85cd3ffec4858df56ac@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T031500Z
 DTEND:20261211T041500Z
 SUMMARY:Strength for Climbers (Sunnyvale)
@@ -1792,7 +1816,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt47c9eecc565c764975a5366c0a3bc734913d83f9@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T031500Z
 DTEND:20261211T043000Z
 SUMMARY:Flow (Santa Clara)
@@ -1804,7 +1828,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5cd626ee8df34e688fbd0cbd656d18d0416db709@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T033000Z
 DTEND:20261211T044500Z
 SUMMARY:Foundation Yoga (Sunnyvale)
@@ -1816,7 +1840,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 35 spaces\nIntro
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt59b4dfdbb3deb2d562f228e99e1d4e3e4efc7ae1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T200000Z
 DTEND:20261211T210000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -1828,7 +1852,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 35 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtfa20b2f6ac9f754deccf716e863d4b3245c81d6f@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261211T200000Z
 DTEND:20261211T210000Z
 SUMMARY:Mat Pilates (Mountain View)
@@ -1844,7 +1868,7 @@ DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nStr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt112a708acccee607ed9b042a060d8af83d3b03c6@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T013000Z
 DTEND:20261212T023000Z
 SUMMARY:Total Body Fit (Santa Clara)
@@ -1857,7 +1881,7 @@ DESCRIPTION:Instructor: Stephanie L.\nAvailability at sync time: 25 spaces\
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte93203917ca28e05710f3b627922705089c103ba@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T014500Z
 DTEND:20261212T024500Z
 SUMMARY:Flow (Sunnyvale)
@@ -1869,7 +1893,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 35 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt91731c7925421018fb464f635c2dad781afcf381@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T014500Z
 DTEND:20261212T024500Z
 SUMMARY:Sculpt (Mountain View)
@@ -1881,7 +1905,7 @@ DESCRIPTION:Instructor: Jordan B.\nAvailability at sync time: 25 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4ce792eb8dbb4eae04b934e698693d6fa55f49c3@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T030000Z
 DTEND:20261212T040000Z
 SUMMARY:Power Flow (Mountain View)
@@ -1893,7 +1917,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7f98e77188bd499fec4548a929fb2fca9a04fef7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T033000Z
 DTEND:20261212T044500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -1905,7 +1929,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt14e47ee7d4b8014b2f12e0568e5a07dc34a495c8@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T170000Z
 DTEND:20261212T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -1917,7 +1941,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 35 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc799e160ac8d949b816abe39fa95f1ad14b4ea22@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T170000Z
 DTEND:20261212T230000Z
 SUMMARY:Lifting Competition (Sunnyvale)
@@ -1931,7 +1955,7 @@ DESCRIPTION:Availability at sync time: Available\nThis will be a friendly\,
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt53a4b9f3ac1bf39fb558762b0d0e873ade3fa0a0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T180000Z
 DTEND:20261212T190000Z
 SUMMARY:Alpine Fit (Santa Clara)
@@ -1943,7 +1967,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 25 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtbb46f95b0cbc02b53fcefc547348ba374b3f5c87@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T180000Z
 DTEND:20261212T190000Z
 SUMMARY:Flow (Mountain View)
@@ -1955,7 +1979,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2e665abac6cd9d257ad5b6bf06d5d4970276b847@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261212T190000Z
 DTEND:20261212T201500Z
 SUMMARY:Foundation Yoga (Santa Clara)
@@ -1967,7 +1991,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 23 spaces\nIntr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7f2325f01ff56f0129dbf342990939166e563385@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261213T000000Z
 DTEND:20261213T011500Z
 SUMMARY:Flow (Sunnyvale)
@@ -1979,7 +2003,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvteafd16e1fb0f9e3c0a61a0618d639e6817b23e6d@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261213T000000Z
 DTEND:20261213T010000Z
 SUMMARY:Flow (Mountain View)
@@ -1991,7 +2015,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt21ea8b588c434e0edbe013f80cd8f9abc7caeb7b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261213T170000Z
 DTEND:20261213T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -2003,7 +2027,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 35 spaces\nAn up
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt37c2db0a9933bb6e4f8aeb8fbcdebecfbe8a655c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261213T180000Z
 DTEND:20261213T190000Z
 SUMMARY:Flow (Mountain View)
@@ -2015,7 +2039,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 25 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtee63140873c0671170c228eb6838bd684d0dbba7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261213T183000Z
 DTEND:20261213T193000Z
 SUMMARY:Alpine Fit (Sunnyvale)
@@ -2027,7 +2051,7 @@ DESCRIPTION:Instructor: Marvin W.\nAvailability at sync time: 50 spaces\nPr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1a64c6035aa9ee4e8ae7ed11ca25a15569fac767@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261213T190000Z
 DTEND:20261213T201500Z
 SUMMARY:Flow (Sunnyvale)
@@ -2039,7 +2063,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 35 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2e7b623ca64bdc69cf8ae3aacb284c45cfa435ac@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261213T190000Z
 DTEND:20261213T201500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -2051,7 +2075,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 25 spaces\nAn up
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtadedb1f5dba42fafda62631ed127375f88e0f61e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261214T000000Z
 DTEND:20261214T010000Z
 SUMMARY:Flow (Santa Clara)
@@ -2063,7 +2087,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt03725e1fc821b172cc3b3563da569336f07b5153@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261214T000000Z
 DTEND:20261214T010000Z
 SUMMARY:Flow (Mountain View)
@@ -2075,7 +2099,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt64218ce3e14c8ed5c881c14d85a2599fd19a7d4a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261214T200000Z
 DTEND:20261214T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -2087,7 +2111,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3e2c8c0d09b1b0b59be3053064f230a803a594b6@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261214T200000Z
 DTEND:20261214T210000Z
 SUMMARY:Sculpt (Mountain View)
@@ -2099,7 +2123,7 @@ DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nA b
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtcd5e1c411823997df0160bdfd675eb8221e559a5@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T013000Z
 DTEND:20261215T024500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -2111,7 +2135,7 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt412da13bc5cc6fa6bee55c45dfd6a2e8baee3810@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T014500Z
 DTEND:20261215T030000Z
 SUMMARY:Slow Flow (Sunnyvale)
@@ -2123,7 +2147,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 35 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1826799431ec899f3f76b52f6998e14b0f450142@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T020000Z
 DTEND:20261215T030000Z
 SUMMARY:Slow Flow + Yin (Mountain View)
@@ -2135,7 +2159,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt181563e5d5c4f94fd6a1007a92bf2d1527725682@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T021500Z
 DTEND:20261215T030000Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -2147,7 +2171,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 20 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtdeea6e0707f527ecf50528652e955b218da13a6c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T023000Z
 DTEND:20261215T031500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -2159,7 +2183,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 30 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2b4f325dfe74d3ff6c59824810769a18276cbb96@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T031500Z
 DTEND:20261215T043000Z
 SUMMARY:Foundation Yoga (Sunnyvale)
@@ -2171,7 +2195,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 35 spaces\nIntr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc9ba711c78707f5093e4e36cd4420e1eb2c0ac22@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T031500Z
 DTEND:20261215T041500Z
 SUMMARY:Flow (Mountain View)
@@ -2183,7 +2207,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc507fa7674b78c93875f170711a3a40794a1ee74@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T033000Z
 DTEND:20261215T043000Z
 SUMMARY:Slow Flow Vinyasa (Santa Clara)
@@ -2195,7 +2219,7 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nMo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt00b22b13760b7318c4ce1581c5265dee97cbc866@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T033000Z
 DTEND:20261215T043000Z
 SUMMARY:Strength (Santa Clara)
@@ -2207,7 +2231,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 25 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4a4fc3e78ca81636bcf061a00883661b144ca838@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T143000Z
 DTEND:20261215T153000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -2219,7 +2243,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd869ff7bf719705ac45def451e52ea765daaad95@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T143000Z
 DTEND:20261215T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -2231,7 +2255,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtdb372d9ed19210d479ddd5f609f74a53690c4165@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T143000Z
 DTEND:20261215T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -2243,7 +2267,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtefe1268ef814b113de2b6dc35ca5a96768a710de@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T200000Z
 DTEND:20261215T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -2255,7 +2279,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 35 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2dc2923cba780ec634f0595e7603e48adb0e1130@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T200000Z
 DTEND:20261215T210000Z
 SUMMARY:Slow Flow + Yin (Santa Clara)
@@ -2267,7 +2291,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt98945f1dac78e012369cbe68d1688958e26ad769@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261215T200000Z
 DTEND:20261215T210000Z
 SUMMARY:Mat Pilates (Mountain View)
@@ -2283,7 +2307,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 25 spaces\nStr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtf413e0fbe5a89319e0472b966ca285768bb72bb6@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T014500Z
 DTEND:20261216T030000Z
 SUMMARY:Flow (Santa Clara)
@@ -2295,7 +2319,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5944ca86333f4727d94c16d138aad900ecb8e40e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T014500Z
 DTEND:20261216T024500Z
 SUMMARY:Foundation Yoga (Mountain View)
@@ -2307,7 +2331,7 @@ DESCRIPTION:Instructor: Sue C.\nAvailability at sync time: 25 spaces\nIntro
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt26ae667f0fb8065c8b7f0265be90ed7403ca7161@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T020000Z
 DTEND:20261216T031500Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -2319,7 +2343,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb1684060f4d54b3edff8e66762ae41220b169694@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:Alpine Fit (Sunnyvale)
@@ -2331,7 +2355,7 @@ DESCRIPTION:Instructor: Patrick R.\nAvailability at sync time: 50 spaces\nP
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1cff3c16d3596fe2750028f845a0de8de4b2650b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T020000Z
 DTEND:20261216T030000Z
 SUMMARY:Functional Strength Training for Climbers (Santa Clara)
@@ -2343,7 +2367,7 @@ DESCRIPTION:Instructor: Troy I.\nAvailability at sync time: 25 spaces\nBuil
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5ba72de5591c4a98928f103d8245ff98f2e3b71c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T030000Z
 DTEND:20261216T040000Z
 SUMMARY:Flow (Mountain View)
@@ -2355,7 +2379,7 @@ DESCRIPTION:Instructor: Sue C.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc2214cfc7dc95d4dda0dfc6da23b41670339b8d1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T031500Z
 DTEND:20261216T041500Z
 SUMMARY:Powerlifting Fundamentals (Sunnyvale)
@@ -2369,7 +2393,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 20 spaces\nA fo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtfd916c5105f471077cafb0c849fe69ac57889d23@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T031500Z
 DTEND:20261216T041500Z
 SUMMARY:Flow (Santa Clara)
@@ -2381,7 +2405,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt40a19d0faf17930162df3a65cc0ba1b742091bcf@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T033000Z
 DTEND:20261216T044500Z
 SUMMARY:Slow Flow + Yin (Sunnyvale)
@@ -2393,7 +2417,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt861a29fbe9493078881ab777aded1ba0869ad12a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T033000Z
 DTEND:20261216T043000Z
 SUMMARY:Total Body Fit (Santa Clara)
@@ -2406,7 +2430,7 @@ DESCRIPTION:Instructor: Tyler H.\nAvailability at sync time: 25 spaces\nA h
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtf959a2ce1b5b93b1d2ba9efc640b6213527bd61e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T143000Z
 DTEND:20261216T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -2418,7 +2442,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt057e22a3739521ad2eff4d00dd788bc468e616aa@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T200000Z
 DTEND:20261216T210000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -2430,7 +2454,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt657d55b2d88b1b7d961653c73e3f81d12bcf0eae@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T200000Z
 DTEND:20261216T210000Z
 SUMMARY:Total Body Fit (Sunnyvale)
@@ -2442,20 +2466,20 @@ DESCRIPTION:Instructor: Michael C.\nAvailability at sync time: 25 spaces\nA
  calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:mvtc870a84869696e10f541da01f3b7ad10e76fce31@movement-sync
-DTSTAMP:20261126T214138Z
+UID:mvt2641e8eb897be567a6125f10d5d9b76c9d64eb25@movement-sync
+DTSTAMP:20261127T212607Z
 DTSTART:20261216T200000Z
 DTEND:20261216T210000Z
-SUMMARY:Sculpt (Mountain View)
+SUMMARY:Flow (Mountain View)
 LOCATION:Movement Mountain View
-DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nA 
- beat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens\,
-  and tones-expect nonstop movement and a killer playlist.\nBook: https://p
- ortal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
+ eath‑linked sequences that ignite internal heat\, build coordination\, a
+ nd leave you energized.\nBook: https://portal.movementgyms.com/mountain-vi
+ ew/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5c138244eb0c6b7f0991a471870c9c48f5068846@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T013000Z
 DTEND:20261217T021500Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -2467,7 +2491,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtf04df074caa79baae0fcac142728ef6181ec13ba@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T014500Z
 DTEND:20261217T030000Z
 SUMMARY:Flow (Sunnyvale)
@@ -2479,7 +2503,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb30a225427ec55c58207338e0f34098659d8274c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T014500Z
 DTEND:20261217T030000Z
 SUMMARY:Foundation Yoga (Santa Clara)
@@ -2490,8 +2514,20 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nIntr
  -clara/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:mvta8c3ea844ff42cc7d69ed8adfdc7229d41768882@movement-sync
+DTSTAMP:20261127T212607Z
+DTSTART:20261217T014500Z
+DTEND:20261217T024500Z
+SUMMARY:Sculpt (Mountain View)
+LOCATION:Movement Mountain View
+DESCRIPTION:Instructor: Connie L.\nAvailability at sync time: 25 spaces\nA 
+ beat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens\,
+  and tones-expect nonstop movement and a killer playlist.\nBook: https://p
+ ortal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:mvt0df674831ed38b24487f76512c6af1241fb94b14@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T020000Z
 DTEND:20261217T030000Z
 SUMMARY:Strength (Santa Clara)
@@ -2503,7 +2539,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 25 spaces\nA we
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt63ad935d0d1a7ae6e2366a34e07aa5b1e030f5da@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T023000Z
 DTEND:20261217T033000Z
 SUMMARY:Olympic Weightlifting Fundamentals (Sunnyvale)
@@ -2518,7 +2554,7 @@ DESCRIPTION:Instructor: Matthew C.\nAvailability at sync time: 20 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtee4e159c7628f80174d1c2dde29d8aaeab345e2b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T030000Z
 DTEND:20261217T034500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -2530,7 +2566,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 30 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtdceb07867f3dba6558ec586418bc9d591513e5f0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T031500Z
 DTEND:20261217T041500Z
 SUMMARY:Yin (Sunnyvale)
@@ -2542,7 +2578,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nLo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtcea65a4ae85561eb8cf484d650034cd899fc8e37@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T031500Z
 DTEND:20261217T041500Z
 SUMMARY:Flow (Mountain View)
@@ -2554,7 +2590,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtdf4af14b73ddda3e433ca09328a1f80db5427898@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T033000Z
 DTEND:20261217T043000Z
 SUMMARY:Core Yoga (Santa Clara)
@@ -2566,7 +2602,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 25 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta910ede6f080bd0ab790482a34bbd3b50e96e7f1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T143000Z
 DTEND:20261217T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -2578,7 +2614,7 @@ DESCRIPTION:Instructor: Kevin N.\nAvailability at sync time: 20 spaces\nA w
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7b21642ed95fd3503aa164f5d4b3165b1904a1a9@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T143000Z
 DTEND:20261217T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -2590,7 +2626,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt686f64ee7ee1906098931c72555d171362d036f0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T200000Z
 DTEND:20261217T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -2602,7 +2638,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5e365c22eab9874a4255a80cd4bd511a94d38ae2@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T200000Z
 DTEND:20261217T210000Z
 SUMMARY:Power Flow (Santa Clara)
@@ -2614,7 +2650,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1471bcd76cb4071f55d2b142673ede6887f2e6ef@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261217T200000Z
 DTEND:20261217T210000Z
 SUMMARY:Sculpt (Mountain View)
@@ -2626,7 +2662,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2dfeba4ad5e158b1eb1da6a20bab994f5d9b82ac@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T014500Z
 DTEND:20261218T030000Z
 SUMMARY:Flow (Santa Clara)
@@ -2637,20 +2673,20 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nBrea
  /climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:mvtb1da1e2bd883024d05ce0e4f238c579a16bae255@movement-sync
-DTSTAMP:20261126T214138Z
+UID:mvtf3220be0f4d3820fe23ca5a8fdbe203055da11b5@movement-sync
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T014500Z
 DTEND:20261218T024500Z
-SUMMARY:Foundation Yoga (Mountain View)
+SUMMARY:Slow Flow + Yin (Mountain View)
 LOCATION:Movement Mountain View
 DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 25 spaces\n
- Introductory class that demystifies common poses\, alignment basics\, and 
- breath so new yogis start strong.\nBook: https://portal.movementgyms.com/m
- ountain-view/n/climbing-yoga-fitness-calendar
+ Begin with mindful\, breath‑led vinyasa then settle into longer Yin hold
+ s that release deep connective tissue.\nBook: https://portal.movementgyms.
+ com/mountain-view/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt658767b12405be3244ac001b4deb49c4f426bcb4@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T020000Z
 DTEND:20261218T031500Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -2662,7 +2698,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 35 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd581c5b82cbfdb7c5cf4cc3f4813d0e7caa0a20f@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T020000Z
 DTEND:20261218T030000Z
 SUMMARY:Ski Fit (Sunnyvale)
@@ -2674,7 +2710,7 @@ DESCRIPTION:Instructor: Patrick R.\nAvailability at sync time: 35 spaces\nI
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt86cac3fa62bc9d82341776499975c789567e84e2@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T030000Z
 DTEND:20261218T040000Z
 SUMMARY:Flow (Mountain View)
@@ -2686,7 +2722,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4bbf306d885d7f9bf907e04c7f355046fcd6028a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T031500Z
 DTEND:20261218T041500Z
 SUMMARY:Strength for Climbers (Sunnyvale)
@@ -2703,7 +2739,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1f24f3ecf95771c88a9b45dedc88a4c6058839d6@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T031500Z
 DTEND:20261218T043000Z
 SUMMARY:Flow (Santa Clara)
@@ -2715,7 +2751,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3ae532e26e8af1145113aaee9a754d8359f151a0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T033000Z
 DTEND:20261218T044500Z
 SUMMARY:Foundation Yoga (Sunnyvale)
@@ -2727,7 +2763,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 35 spaces\nIntro
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt99ad032a27c259caa5a0de7832846a031fb8e1db@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T200000Z
 DTEND:20261218T210000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -2739,7 +2775,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 35 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtbed9b52d722964b05e00443b615f42d167a93917@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261218T200000Z
 DTEND:20261218T210000Z
 SUMMARY:Mat Pilates (Mountain View)
@@ -2755,7 +2791,7 @@ DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nStr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtf774805646beb177b5c34a189d732976f97fa76b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261219T013000Z
 DTEND:20261219T023000Z
 SUMMARY:Total Body Fit (Santa Clara)
@@ -2768,7 +2804,7 @@ DESCRIPTION:Instructor: Stephanie L.\nAvailability at sync time: 25 spaces\
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt32d34be1e44418b5dced722b895cf3b27e44cadc@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261219T014500Z
 DTEND:20261219T024500Z
 SUMMARY:Flow (Sunnyvale)
@@ -2780,7 +2816,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 35 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1158f5033f1eb0d19cae5945274e8d30912e3e2b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261219T014500Z
 DTEND:20261219T024500Z
 SUMMARY:Sculpt (Mountain View)
@@ -2792,7 +2828,7 @@ DESCRIPTION:Instructor: Jordan B.\nAvailability at sync time: 25 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvteff42a6e69d2e037601bc3bddfad6ead490a8672@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261219T030000Z
 DTEND:20261219T040000Z
 SUMMARY:Power Flow (Mountain View)
@@ -2804,7 +2840,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6c3b6b96a9c6ad377d1bc6b67f338ff4e0bc31e6@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261219T033000Z
 DTEND:20261219T044500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -2816,7 +2852,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3a598b3c46eda7b274498783ffffb17cb7ddcf63@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261219T170000Z
 DTEND:20261219T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -2828,7 +2864,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 35 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc119c639166a67428568dfb8c71c318c46067db5@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261219T180000Z
 DTEND:20261219T190000Z
 SUMMARY:Alpine Fit (Santa Clara)
@@ -2840,7 +2876,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 25 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt465b15850d9b895b612aed5b971abd580b891779@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261219T180000Z
 DTEND:20261219T190000Z
 SUMMARY:Flow (Mountain View)
@@ -2852,7 +2888,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1f86275d9da95f9337a012c4c936ae132a3cd8eb@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261219T190000Z
 DTEND:20261219T201500Z
 SUMMARY:Foundation Yoga (Santa Clara)
@@ -2864,7 +2900,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nIntr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtc875038d097f24b4b4dd97925efdcff4714a0d3b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261220T000000Z
 DTEND:20261220T011500Z
 SUMMARY:Flow (Sunnyvale)
@@ -2876,7 +2912,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8eec9d9c3682504216449b5fffe4f7d508b0ef41@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261220T000000Z
 DTEND:20261220T010000Z
 SUMMARY:Flow (Mountain View)
@@ -2888,7 +2924,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtceb7f7ab35dbb2417802051bfab52f3f95a084e9@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261220T170000Z
 DTEND:20261220T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -2900,7 +2936,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 35 spaces\nAn up
 END:VEVENT
 BEGIN:VEVENT
 UID:mvteaf4ae071b44d24f6d9ff39428f8ff06c86f8aff@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261220T180000Z
 DTEND:20261220T190000Z
 SUMMARY:Flow (Mountain View)
@@ -2912,7 +2948,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 25 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt9935aeffa56cb40c8754ffabd0610cff5ada5eff@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261220T183000Z
 DTEND:20261220T193000Z
 SUMMARY:Alpine Fit (Sunnyvale)
@@ -2924,7 +2960,7 @@ DESCRIPTION:Instructor: Marvin W.\nAvailability at sync time: 50 spaces\nPr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt89c11873bba09d13b8b850fd29d8e1d9dc63eba4@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261220T190000Z
 DTEND:20261220T201500Z
 SUMMARY:Flow (Sunnyvale)
@@ -2936,7 +2972,7 @@ DESCRIPTION:Instructor: Jen T.\nAvailability at sync time: 35 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt9950cccfe80fd546973aab4d5702ae6df4b259d1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261220T190000Z
 DTEND:20261220T201500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -2948,7 +2984,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 24 spaces\nAn up
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte8624bdaf91af229f2cf8a35c516be3852df4756@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261221T000000Z
 DTEND:20261221T010000Z
 SUMMARY:Flow (Santa Clara)
@@ -2960,7 +2996,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt58765dc9aed9726b5aea4a31feeb3ff926aaabc0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261221T000000Z
 DTEND:20261221T010000Z
 SUMMARY:Flow (Mountain View)
@@ -2972,7 +3008,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7b1fae0596107a490f7d6dbbba7b11d1cc7eaa6d@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261221T200000Z
 DTEND:20261221T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -2984,7 +3020,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte8afb4332ac644a90b500624f345686e5e69ad77@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261221T200000Z
 DTEND:20261221T210000Z
 SUMMARY:Sculpt (Mountain View)
@@ -2996,7 +3032,7 @@ DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nA b
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4aa4a67ca02d2d2a54fc18b3f41d9221c73930fe@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T013000Z
 DTEND:20261222T024500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -3008,7 +3044,7 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3400dc947b552663afd47fba3c11d96deab33c11@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T014500Z
 DTEND:20261222T030000Z
 SUMMARY:Slow Flow (Sunnyvale)
@@ -3020,7 +3056,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 35 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb77ce50573151f54e20b38aba5c700d25664994d@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T020000Z
 DTEND:20261222T030000Z
 SUMMARY:Slow Flow + Yin (Mountain View)
@@ -3032,7 +3068,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBeg
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtbb0abf325e9bb7998435250a2312dc1eb7ca19e0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T021500Z
 DTEND:20261222T030000Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -3044,7 +3080,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 20 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1b6b86354c102ee762a2a220562f2563240c9763@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T023000Z
 DTEND:20261222T031500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -3056,7 +3092,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 30 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtac12757eb8dada418182771283f338fdd49a10d4@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T031500Z
 DTEND:20261222T043000Z
 SUMMARY:Foundation Yoga (Sunnyvale)
@@ -3068,7 +3104,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 35 spaces\nIntr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt672c8b971fa242b9155ad795d5e90bd1771e42c3@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T031500Z
 DTEND:20261222T041500Z
 SUMMARY:Flow (Mountain View)
@@ -3080,7 +3116,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtaf9cdd6e8f1828d0e83ac7c226fa69730404b23b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T033000Z
 DTEND:20261222T043000Z
 SUMMARY:Slow Flow Vinyasa (Santa Clara)
@@ -3092,7 +3128,7 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nMo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt75cfa0e9c49f8d03090e421d24f488080478af4a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T033000Z
 DTEND:20261222T043000Z
 SUMMARY:Strength (Santa Clara)
@@ -3104,7 +3140,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 25 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt0080554704ebc0e4b18a4a751f7419325be669c3@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T143000Z
 DTEND:20261222T153000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -3116,7 +3152,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3cc2ada50c76b4caa1ffa4e45b595519ea4b18ab@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T143000Z
 DTEND:20261222T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -3128,7 +3164,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt389d0e07efcf598fe16b46cbd85ba3279050417a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T143000Z
 DTEND:20261222T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -3140,7 +3176,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta43aa00ad63adfffb9f3ab1b451a7b2d0c6ff4e2@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T200000Z
 DTEND:20261222T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -3152,7 +3188,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 35 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt73af94c6531a07df5087ca9529c12af43b4cfc3d@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T200000Z
 DTEND:20261222T210000Z
 SUMMARY:Slow Flow + Yin (Santa Clara)
@@ -3164,7 +3200,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtdb912c9a46dcb3ef4d63a138c5f7a2b38a7f49f3@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261222T200000Z
 DTEND:20261222T210000Z
 SUMMARY:Mat Pilates (Mountain View)
@@ -3180,7 +3216,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 24 spaces\nStr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt525a65342fe6d1c00e64296ccc79c4e778e2d038@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T014500Z
 DTEND:20261223T030000Z
 SUMMARY:Flow (Santa Clara)
@@ -3192,7 +3228,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1dcfd6596dd416f2990b10b58d3d67c4d8853bec@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T014500Z
 DTEND:20261223T024500Z
 SUMMARY:Foundation Yoga (Mountain View)
@@ -3204,7 +3240,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nIn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt271a7b14f7ff8dba947d3f594a4823a6fc2abafe@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T020000Z
 DTEND:20261223T031500Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -3216,7 +3252,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta8203243dd6c8982a8a14d73d9a58b3459f456b9@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:Alpine Fit (Sunnyvale)
@@ -3228,7 +3264,7 @@ DESCRIPTION:Instructor: Patrick R.\nAvailability at sync time: 50 spaces\nP
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt436569f5dbe7fdee1abb27a51dc5f956d50dbddd@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T020000Z
 DTEND:20261223T030000Z
 SUMMARY:Functional Strength Training for Climbers (Santa Clara)
@@ -3240,7 +3276,7 @@ DESCRIPTION:Instructor: Troy I.\nAvailability at sync time: 25 spaces\nBuil
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta78316f212de890d062b134b9665ac3fd0f0d377@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T030000Z
 DTEND:20261223T040000Z
 SUMMARY:Flow (Mountain View)
@@ -3252,7 +3288,7 @@ DESCRIPTION:Instructor: Yin-Juei C.\nAvailability at sync time: 25 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt538af7047fedbafdc563c900e0edddf0c2f91016@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T031500Z
 DTEND:20261223T041500Z
 SUMMARY:Powerlifting Fundamentals (Sunnyvale)
@@ -3266,7 +3302,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 20 spaces\nA fo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4767a0557ebab4f38b1b6a235947f2db65fa62c9@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T031500Z
 DTEND:20261223T041500Z
 SUMMARY:Flow (Santa Clara)
@@ -3278,7 +3314,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3ce0ce7ab429433c4fe10bbe1dbb696e81570fd5@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T033000Z
 DTEND:20261223T044500Z
 SUMMARY:Slow Flow + Yin (Sunnyvale)
@@ -3290,7 +3326,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5c3a0a27b2fcc267bf6004ba29c4e2f7496424d3@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T033000Z
 DTEND:20261223T043000Z
 SUMMARY:Total Body Fit (Santa Clara)
@@ -3303,7 +3339,7 @@ DESCRIPTION:Instructor: Tyler H.\nAvailability at sync time: 25 spaces\nA h
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt794249aab975913955709a3e6e4aa0191a820910@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T143000Z
 DTEND:20261223T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -3315,7 +3351,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt998657fcf20383e7ea9b1e407a095626fecba351@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T200000Z
 DTEND:20261223T210000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -3327,7 +3363,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt85ded76f527481c4332514d4f6423665a551aaf1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T200000Z
 DTEND:20261223T210000Z
 SUMMARY:Total Body Fit (Sunnyvale)
@@ -3339,20 +3375,20 @@ DESCRIPTION:Instructor: Michael C.\nAvailability at sync time: 24 spaces\nA
  calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:mvtadfd363424bd092482594772c6cbc935ee48d990@movement-sync
-DTSTAMP:20261126T214138Z
+UID:mvt9379e64d7b01537affa541ec9f6d1eccda9ecddf@movement-sync
+DTSTAMP:20261127T212607Z
 DTSTART:20261223T200000Z
 DTEND:20261223T210000Z
-SUMMARY:Sculpt (Mountain View)
+SUMMARY:Flow (Mountain View)
 LOCATION:Movement Mountain View
-DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nA b
- eat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens\, 
- and tones-expect nonstop movement and a killer playlist.\nBook: https://po
- rtal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nBre
+ ath‑linked sequences that ignite internal heat\, build coordination\, an
+ d leave you energized.\nBook: https://portal.movementgyms.com/mountain-vie
+ w/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtfb86f5dc3863c3ebe8b5b11c8e86c694b180992e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T013000Z
 DTEND:20261224T021500Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -3364,7 +3400,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtb84d13fd7ca08090ffd633f6772919ad1a770aff@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T014500Z
 DTEND:20261224T030000Z
 SUMMARY:Flow (Sunnyvale)
@@ -3376,7 +3412,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 35 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8cb7dae6cc644becafe1fa323b32be0142825dc7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T014500Z
 DTEND:20261224T030000Z
 SUMMARY:Foundation Yoga (Santa Clara)
@@ -3387,8 +3423,20 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nIntr
  -clara/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:mvt66950c0c0b72290105f9287617f23a6d7672baa6@movement-sync
+DTSTAMP:20261127T212607Z
+DTSTART:20261224T014500Z
+DTEND:20261224T024500Z
+SUMMARY:Sculpt (Mountain View)
+LOCATION:Movement Mountain View
+DESCRIPTION:Instructor: Connie L.\nAvailability at sync time: 25 spaces\nA 
+ beat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens\,
+  and tones-expect nonstop movement and a killer playlist.\nBook: https://p
+ ortal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:mvt78fc9f5785c3c948c3af0f188ba31ec793a8ad7a@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T020000Z
 DTEND:20261224T030000Z
 SUMMARY:Strength (Santa Clara)
@@ -3400,7 +3448,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 25 spaces\nA we
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2e817af8b1993542095171be66c8f4132107caa4@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T023000Z
 DTEND:20261224T033000Z
 SUMMARY:Olympic Weightlifting Fundamentals (Sunnyvale)
@@ -3415,7 +3463,7 @@ DESCRIPTION:Instructor: Matthew C.\nAvailability at sync time: 20 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta6ff61a051495a0069c95c41bc5b6c235ba76b3f@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T030000Z
 DTEND:20261224T034500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -3427,7 +3475,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 30 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte00fbdd2eea6a298fe0389062a9b78fe1b7c03cc@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T031500Z
 DTEND:20261224T041500Z
 SUMMARY:Yin (Sunnyvale)
@@ -3439,7 +3487,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nLo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt883b4e336cc93bef379e66c0c298ce44fda10c6e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T031500Z
 DTEND:20261224T041500Z
 SUMMARY:Flow (Mountain View)
@@ -3451,7 +3499,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt4f11f7cfabb7fd14a64c04fc8d9f790e5cb8c53b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T033000Z
 DTEND:20261224T043000Z
 SUMMARY:Core Yoga (Santa Clara)
@@ -3463,7 +3511,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 25 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt32b158eae6faa16d3a01c15f7a134388a438298c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T143000Z
 DTEND:20261224T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -3475,7 +3523,7 @@ DESCRIPTION:Instructor: Kevin N.\nAvailability at sync time: 20 spaces\nA w
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5b40169fbb7a3b78f547b752e62efb7ac80e1740@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T143000Z
 DTEND:20261224T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -3487,7 +3535,7 @@ DESCRIPTION:Instructor: Emily C.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt0fe44bc0ebff0db4a1982c4dd9e29bae7706da1c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T200000Z
 DTEND:20261224T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -3499,7 +3547,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1306fd04390cc538275eca162dd33076de90e624@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T200000Z
 DTEND:20261224T210000Z
 SUMMARY:Power Flow (Santa Clara)
@@ -3511,7 +3559,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5eddfef8438d3d839154f5a171708a292f277eb6@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261224T200000Z
 DTEND:20261224T210000Z
 SUMMARY:Sculpt (Mountain View)
@@ -3523,7 +3571,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 25 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt94dc88c933e395d1d2a6ee16d31e4653a8f5a710@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261226T170000Z
 DTEND:20261226T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -3535,7 +3583,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 35 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta8b10b208431c34c0690f3e92feeef76e1f742b1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261226T180000Z
 DTEND:20261226T190000Z
 SUMMARY:Alpine Fit (Santa Clara)
@@ -3547,7 +3595,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 25 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1019e859f6e72e049de16bfe863b5af7adc5dedd@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261226T180000Z
 DTEND:20261226T190000Z
 SUMMARY:Flow (Mountain View)
@@ -3559,7 +3607,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd5f98cb5d69e7f324f6191783a578a517b6dea40@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261226T190000Z
 DTEND:20261226T201500Z
 SUMMARY:Foundation Yoga (Santa Clara)
@@ -3571,7 +3619,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nIntr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtab7968d13036eac8cae4c67c55e0625603623b9e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261227T000000Z
 DTEND:20261227T011500Z
 SUMMARY:Flow (Sunnyvale)
@@ -3583,7 +3631,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt1aa5c244660bf6aedde13ca5248d2779846f16a0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261227T000000Z
 DTEND:20261227T010000Z
 SUMMARY:Flow (Mountain View)
@@ -3595,7 +3643,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtbae6666a75dc47e46b4e06209fb909275b7267c4@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261227T170000Z
 DTEND:20261227T180000Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -3607,7 +3655,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 35 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt47b5c781a12c0188619c9c4faad774926186c3bb@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261227T180000Z
 DTEND:20261227T190000Z
 SUMMARY:Flow (Mountain View)
@@ -3619,7 +3667,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 25 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt9a2e52e8e2c194398a15b347e15945a8994b96d8@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261227T183000Z
 DTEND:20261227T193000Z
 SUMMARY:Alpine Fit (Sunnyvale)
@@ -3631,7 +3679,7 @@ DESCRIPTION:Instructor: Marvin W.\nAvailability at sync time: 50 spaces\nPr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3312ca14ba1d21b459bfe0a066934c5befe6fa85@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261227T190000Z
 DTEND:20261227T201500Z
 SUMMARY:Flow (Sunnyvale)
@@ -3643,7 +3691,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 35 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt5fa5e7df7327b581cf319204eaecc65cec02fe91@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261227T190000Z
 DTEND:20261227T201500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -3655,7 +3703,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 24 spaces\nAn up
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtdcd64e9bd331acbb88fce66b80f523c8cf8e6016@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261228T000000Z
 DTEND:20261228T010000Z
 SUMMARY:Flow (Santa Clara)
@@ -3667,7 +3715,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt22df60c6a05fbf62aff0d3fb748aafc824b4e3d9@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261228T000000Z
 DTEND:20261228T010000Z
 SUMMARY:Flow (Mountain View)
@@ -3679,7 +3727,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtaed060cf73b7c4b1310302b374f2fc2f8d0ff590@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261228T200000Z
 DTEND:20261228T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -3691,7 +3739,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtcc84ce01ec13f46b4fb2b40ee16e2b47aa678e22@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261228T200000Z
 DTEND:20261228T210000Z
 SUMMARY:Sculpt (Mountain View)
@@ -3703,7 +3751,7 @@ DESCRIPTION:Instructor: Yin-Juei C.\nAvailability at sync time: 25 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt33aa2490c84ff518a45c5e7c470ab7dd1f1224a5@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T013000Z
 DTEND:20261229T024500Z
 SUMMARY:Power Flow (Santa Clara)
@@ -3715,7 +3763,7 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt9f91de3bf12bf014809bbcad097b7f13c204a3e8@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T014500Z
 DTEND:20261229T030000Z
 SUMMARY:Slow Flow (Sunnyvale)
@@ -3727,7 +3775,7 @@ DESCRIPTION:Instructor: Benjamin D.\nAvailability at sync time: 35 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd70d1d51b971053853d829e37b1ecd90db3b54e5@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T020000Z
 DTEND:20261229T030000Z
 SUMMARY:Slow Flow + Yin (Mountain View)
@@ -3739,7 +3787,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nBegi
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt2b57bb084af40725101772837d1b9fe9e2d38ef7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T021500Z
 DTEND:20261229T030000Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -3751,7 +3799,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 20 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt0e0f164c98fec05a78604082f6563f9e64256c84@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T023000Z
 DTEND:20261229T031500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -3763,7 +3811,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 30 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt793444928af9d578bf14df2d9d2d556d0931b2ab@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T031500Z
 DTEND:20261229T043000Z
 SUMMARY:Foundation Yoga (Sunnyvale)
@@ -3775,7 +3823,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 35 spaces\nIntr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt17ccbe3561357ab9975b0801e767efcb9d89a904@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T031500Z
 DTEND:20261229T041500Z
 SUMMARY:Flow (Mountain View)
@@ -3787,7 +3835,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt9485e2b84419934d10f9edfdda095ac4877d4f9b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T033000Z
 DTEND:20261229T043000Z
 SUMMARY:Slow Flow Vinyasa (Santa Clara)
@@ -3799,7 +3847,7 @@ DESCRIPTION:Instructor: Shelly R.\nAvailability at sync time: 25 spaces\nMo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte953cf15f1650f54feeb0c2fbf67aa35d8a83f77@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T033000Z
 DTEND:20261229T043000Z
 SUMMARY:Strength (Santa Clara)
@@ -3811,7 +3859,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 25 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd26fa1652e8efa8c26b014f058b789109a4ab7e1@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T143000Z
 DTEND:20261229T153000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -3823,7 +3871,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt3aba8b5e3fa4fdb29ad6c536de2f5baa50c2c292@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T143000Z
 DTEND:20261229T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -3835,7 +3883,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt8a18ac28b9bf2eed08730cc67f84b47a08be8ef0@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T143000Z
 DTEND:20261229T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -3847,7 +3895,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6950647726c4e8f7dbb9b491a3432328fa0330fc@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T200000Z
 DTEND:20261229T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -3859,7 +3907,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt301a2f4734349ab8aa3197d96e175a23c28c000f@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T200000Z
 DTEND:20261229T210000Z
 SUMMARY:Slow Flow + Yin (Santa Clara)
@@ -3871,7 +3919,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt92416979a757e2f8a0b9769431dcdcd45ea92abf@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261229T200000Z
 DTEND:20261229T210000Z
 SUMMARY:Mat Pilates (Mountain View)
@@ -3887,7 +3935,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 24 spaces\nStr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt449f2bd8a3e75f43f8d1707551f2af7d2781d7bd@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T014500Z
 DTEND:20261230T030000Z
 SUMMARY:Flow (Santa Clara)
@@ -3899,7 +3947,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt72d01b61b6a875b6b963a69038eefaafec034740@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T014500Z
 DTEND:20261230T024500Z
 SUMMARY:Foundation Yoga (Mountain View)
@@ -3911,7 +3959,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 25 spaces\nIn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt60e32a78e355b68eb6f22d6cfd878cabe4db1643@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T020000Z
 DTEND:20261230T031500Z
 SUMMARY:Power Flow (Sunnyvale)
@@ -3923,7 +3971,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nAn
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt0fd716ebfc1157d10401393f0b3e2898eed6b57d@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T020000Z
 DTEND:20261230T030000Z
 SUMMARY:Alpine Fit (Sunnyvale)
@@ -3935,7 +3983,7 @@ DESCRIPTION:Instructor: Patrick R.\nAvailability at sync time: 50 spaces\nP
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd0f793bd1330f08a8d807eca82ed6fbe82c3919c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T020000Z
 DTEND:20261230T030000Z
 SUMMARY:Functional Strength Training for Climbers (Santa Clara)
@@ -3947,7 +3995,7 @@ DESCRIPTION:Instructor: Troy I.\nAvailability at sync time: 25 spaces\nBuil
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte42c574fa1018a384640258c2883f0c6402585be@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T030000Z
 DTEND:20261230T040000Z
 SUMMARY:Flow (Mountain View)
@@ -3959,7 +4007,7 @@ DESCRIPTION:Instructor: Yin-Juei C.\nAvailability at sync time: 25 spaces\n
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt688db90621e340e4c416790e1690b6c2fe217215@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T031500Z
 DTEND:20261230T041500Z
 SUMMARY:Powerlifting Fundamentals (Sunnyvale)
@@ -3973,7 +4021,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 20 spaces\nA fo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7db0e322967ddae5be8dbc168fa2d2de2beec2bf@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T031500Z
 DTEND:20261230T041500Z
 SUMMARY:Flow (Santa Clara)
@@ -3985,7 +4033,7 @@ DESCRIPTION:Instructor: Wern C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtd88619895874a51acdaf3c75f46fa40c1d8555ac@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T033000Z
 DTEND:20261230T044500Z
 SUMMARY:Slow Flow + Yin (Sunnyvale)
@@ -3997,7 +4045,7 @@ DESCRIPTION:Instructor: Nicole D.\nAvailability at sync time: 35 spaces\nBe
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt30ed4cb8888e2ee778ad7989fa528ec13150acb3@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T033000Z
 DTEND:20261230T043000Z
 SUMMARY:Total Body Fit (Santa Clara)
@@ -4010,7 +4058,7 @@ DESCRIPTION:Instructor: Tyler H.\nAvailability at sync time: 25 spaces\nA h
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6edc406f747c1bc84d730122ec6d0d1db9f0debe@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T143000Z
 DTEND:20261230T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -4022,7 +4070,7 @@ DESCRIPTION:Instructor: Eva A.\nAvailability at sync time: 25 spaces\nBreat
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt7494a5c1721a1d278fcc392f7a519b06ca702433@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T200000Z
 DTEND:20261230T210000Z
 SUMMARY:Core Yoga (Sunnyvale)
@@ -4034,7 +4082,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 35 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtca66ae63c4a759903e95d80977cdcfc1c8a9895c@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T200000Z
 DTEND:20261230T210000Z
 SUMMARY:Total Body Fit (Sunnyvale)
@@ -4046,20 +4094,20 @@ DESCRIPTION:Instructor: Michael C.\nAvailability at sync time: 24 spaces\nA
  calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:mvt2a4a5b94b6e3b550cf2347673e0286100c9c1fda@movement-sync
-DTSTAMP:20261126T214138Z
+UID:mvt29d686c342f7af119c41c0e1f90209d1e12945c4@movement-sync
+DTSTAMP:20261127T212607Z
 DTSTART:20261230T200000Z
 DTEND:20261230T210000Z
-SUMMARY:Sculpt (Mountain View)
+SUMMARY:Flow (Mountain View)
 LOCATION:Movement Mountain View
 DESCRIPTION:Instructor: Yin-Juei C.\nAvailability at sync time: 25 spaces\n
- A beat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens
- \, and tones-expect nonstop movement and a killer playlist.\nBook: https:/
- /portal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+ Breath‑linked sequences that ignite internal heat\, build coordination\,
+  and leave you energized.\nBook: https://portal.movementgyms.com/mountain-
+ view/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:mvte7d0cfaaba87ec6c485544b8416e96a3fd64bd33@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T013000Z
 DTEND:20261231T021500Z
 SUMMARY:Core Fit (Sunnyvale)
@@ -4071,7 +4119,7 @@ DESCRIPTION:Instructor: Oscar (Tsz) N.\nAvailability at sync time: 20 space
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt776204cd9ba5f5570268288d2b86721a3343829e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T014500Z
 DTEND:20261231T030000Z
 SUMMARY:Flow (Sunnyvale)
@@ -4083,7 +4131,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 35 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt54071b22b2eac1b533472031422053374bf4600f@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T014500Z
 DTEND:20261231T030000Z
 SUMMARY:Foundation Yoga (Santa Clara)
@@ -4094,8 +4142,20 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nIntr
  -clara/n/climbing-yoga-fitness-calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:mvt1acfba4053d5b24cf8a7d0bdf4e8e0c6e26f7be5@movement-sync
+DTSTAMP:20261127T212607Z
+DTSTART:20261231T014500Z
+DTEND:20261231T024500Z
+SUMMARY:Sculpt (Mountain View)
+LOCATION:Movement Mountain View
+DESCRIPTION:Instructor: Connie L.\nAvailability at sync time: 25 spaces\nA 
+ beat‑driven fusion of HIIT\, Pilates\, and yoga that lifts\, lengthens\,
+  and tones-expect nonstop movement and a killer playlist.\nBook: https://p
+ ortal.movementgyms.com/mountain-view/n/climbing-yoga-fitness-calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:mvt45e1dc8a5c19162ee170f53f89da9ffb6a01ca76@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T020000Z
 DTEND:20261231T030000Z
 SUMMARY:Strength (Santa Clara)
@@ -4107,7 +4167,7 @@ DESCRIPTION:Instructor: Tinh L.\nAvailability at sync time: 25 spaces\nA we
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt010ad272c99dc9ec295ec5eaa053009f5da83485@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T023000Z
 DTEND:20261231T033000Z
 SUMMARY:Olympic Weightlifting Fundamentals (Sunnyvale)
@@ -4122,7 +4182,7 @@ DESCRIPTION:Instructor: Matthew C.\nAvailability at sync time: 20 spaces\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt67fc6890c3af70b631be06ed94d5cbb69b65a764@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T030000Z
 DTEND:20261231T034500Z
 SUMMARY:Core Fit (Santa Clara)
@@ -4134,7 +4194,7 @@ DESCRIPTION:Instructor: Yi Z.\nAvailability at sync time: 30 spaces\nTorch
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtf6ea47e3634095420561561c1281bb52fc9c5f0d@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T031500Z
 DTEND:20261231T041500Z
 SUMMARY:Yin (Sunnyvale)
@@ -4146,7 +4206,7 @@ DESCRIPTION:Instructor: Briana D.\nAvailability at sync time: 35 spaces\nLo
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt79efb1da1f54cd32200f82c270014f686f2f760e@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T031500Z
 DTEND:20261231T041500Z
 SUMMARY:Flow (Mountain View)
@@ -4158,7 +4218,7 @@ DESCRIPTION:Instructor: Avril F.\nAvailability at sync time: 25 spaces\nBre
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt09f85d0be6dd014103699d2a33a760e55a093a8b@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T033000Z
 DTEND:20261231T043000Z
 SUMMARY:Core Yoga (Santa Clara)
@@ -4170,7 +4230,7 @@ DESCRIPTION:Instructor: Doris P.\nAvailability at sync time: 25 spaces\nA f
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt6d8fcd5e686516040283781b4775883a7ed18075@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T143000Z
 DTEND:20261231T153000Z
 SUMMARY:Strength (Sunnyvale)
@@ -4182,7 +4242,7 @@ DESCRIPTION:Instructor: Kevin N.\nAvailability at sync time: 20 spaces\nA w
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt95fcc51e82a4c0e77d9eb88473b1310d7ae0abca@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T143000Z
 DTEND:20261231T153000Z
 SUMMARY:Flow (Santa Clara)
@@ -4194,7 +4254,7 @@ DESCRIPTION:Instructor: Jill C.\nAvailability at sync time: 25 spaces\nBrea
 END:VEVENT
 BEGIN:VEVENT
 UID:mvtcbae1cd93e2c71ea9cc8abf4b82076cb7a4828de@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T200000Z
 DTEND:20261231T210000Z
 SUMMARY:Flow (Sunnyvale)
@@ -4206,7 +4266,7 @@ DESCRIPTION:Instructor: Anfisa M.\nAvailability at sync time: 35 spaces\nBr
 END:VEVENT
 BEGIN:VEVENT
 UID:mvta34c32e587012a1619a046d843e081ab379322f7@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T200000Z
 DTEND:20261231T210000Z
 SUMMARY:Power Flow (Santa Clara)
@@ -4218,7 +4278,7 @@ DESCRIPTION:Instructor: Jill T.\nAvailability at sync time: 25 spaces\nAn u
 END:VEVENT
 BEGIN:VEVENT
 UID:mvt18fbd8c429338625e00a4d4c172b5d5253513138@movement-sync
-DTSTAMP:20261126T214138Z
+DTSTAMP:20261127T212607Z
 DTSTART:20261231T200000Z
 DTEND:20261231T210000Z
 SUMMARY:Sculpt (Mountain View)
